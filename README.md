@@ -1,0 +1,1 @@
+# 2025.2-T01-G6-QueroBemEstar_Entrega_02
