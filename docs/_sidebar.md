@@ -15,4 +15,5 @@
       - [2.2.3. Diagrama de Colaboração](./Modelagem/ModelagemDinamica/2.2.3.DiagramaDeColaboracao.md)
     - [**2.3. Modelagem UML Organizacional ou Casos de Uso**](./Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.1 Diagrama de Casos de Uso](./Modelagem/ModelagemOrganizacional/2.3.1.DiagramaDeCasosDeUso.md)
+      - [2.3.1 Diagrama de Pacotes](./Modelagem/ModelagemOrganizacional/2.3.2.DiagramaDePacotes.md.md)
     - [**2.4. Participações - Modelagem**](./Modelagem/2.4.ParticipacoesModelagem.md)
