@@ -1,0 +1,69 @@
+# 1.4. Participações (Base)
+
+Breve relato sobre as participações/contribuições de cada membro à entrega.
+
+## Módulo Design Sprint (Foco 1)
+
+<!-- EXEMPLO:
+| Fulano  |  1. Participação nas Etapas da Design Sprint elaborando artefatos | Boa | Registro nos Versionamentos do Documento de Design Sprint, conforme (link) -->
+
+| Nome do Membro      | Contribuição                                                                             | Significância da Contribuição | Comprobatórios        |
+| ------------------- | ---------------------------------------------------------------------------------------- | ----------------------------- | --------------------- |
+| Artur Krauspenhar   | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| Eduardo de Almeida  | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| Filipe Bressanelli  | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| Gabriel Soares      | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| João Pedro          | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| Jose Vinicius       | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| Leonardo Sauma   | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| Marco Marques       | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| Mylena Trindade     | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+| Yago Amin           | Desenvolvimento do Design Sprint                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)                     |
+
+
+## Módulo Artefato Generalista
+
+| Nome do Membro      | Contribuição                                           | Significância da Contribuição | Comprobatórios |
+| ------------------- | ------------------------------------------------------ | ----------------------------- | -------------- |
+| Artur Krauspenhar   | Participou no desenvolvimento de todos os artefatos direta ou indiretamente (Como confecção ou revisão)                     | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| Eduardo de Almeida  | Participou no desenvolvimento de todos os artefatos direta ou indiretamente (Como confecção ou revisão)                      | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| Filipe Bressanelli  | Participou no desenvolvimento de todos os artefatos direta ou indiretamente (Como confecção ou revisão) | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| Gabriel Soares      | Participou no desenvolvimento de todos os artefatos direta ou indiretamente (Como confecção ou revisão)                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| João Pedro          | Participou no desenvolvimento de todos os artefatos direta ou indiretamente (Como confecção ou revisão)                                          | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| Jose Vinicius       | Participou no desenvolvimento de todos os artefatos direta ou indiretamente (Como confecção ou revisão)                                   | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| Leonardo Sauma   | Participou no desenvolvimento de todos os artefatos direta ou indiretamente (Como confecção ou revisão)                       | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| Marco Marques       | Participou no desenvolvimento de todos os artefatos direta ou indiretamente (Como confecção ou revisão)               | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| Mylena Trindade     | Participou no desenvolvimento de todos os artefatos direta ou indiretamente  (Como confecção ou revisão)              | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+| Yago Amin           | Participou no desenvolvimento de todos os artefatos direta ou indiretamente  (Como confecção ou revisão)                  | Excelente                     |  [Miro](https://miro.com/app/board/uXjVJP1wEs4=/)              |
+
+
+## Módulo Modelagem BPMN
+
+| Nome dos Membros         | Contribuição                                              | Significância da Contribuição | Comprobatórios           |         
+| ------------------------ | --------------------------------------------------------- | ----------------------------- | ------------------------ |
+| Artur Krauspenhar        | Modelagem BPMN - Fluxo de Sprint development                              | Excelente                     |  [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)                        |
+| Eduardo de Almeida       | Modelagem BPMN - Fluxo de Sprint development             | Excelente                     |  [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)                        |
+| Filipe Bressanelli       | Modelagem BPMN - Fluxo de Sprint Planning            | Excelente                     |  [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)                        |
+| Gabriel Soares           | Modelagem BPMN - Fluxo de Sprint Planning                                    | Excelente                     |   [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)                       |
+| João Pedro               | Modelagem BPMN - Sprint            | Excelente                     |  [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)                        |
+| Jose Vinicius            | Modelagem BPMN - Sprint            | Excelente                     |  [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)                        |
+| Leonardo Sauma        | Modelagem BPMN - Sprint Review          | Excelente                     |  [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)                        |
+| Mylena Trindade          | Modelagem BPMN - Sprint Review | Excelente                                             |  [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)
+| Yago Amin                | Modelagem BPMN - Fluxo de usuário                         | Excelente                     |  [Pages](./Base/ModelagemBPMN/1.3.ModelagemBPMN?id=_13-modelagem-bpmn-do-projeto-querobemestar)                        |
+
+## Histórico de Versão
+
+| Versão |    Data    |                    Descrição                     |     Autor(es)     | Data de revisão | Revisor(es)      |
+| :----: | :--------: | :----------------------------------------------: | :---------------: | :-------------: | :--------------: |
+| `1.0`  | 21/09/2025 |           Versão inicial da tabela.            |      [Filipe Bressaneli][https://github.com/fbressa]        |       |   
+
+[Arturhk05]: https://github.com/Arturhk05  
+[eduardoferre]: https://github.com/eduardoferre  
+[fbressa]: https://github.com/fbressa  
+[SAnjos3]: https://github.com/SAnjos3  
+[JoaoPedro2206]: https://github.com/JoaoPedro2206  
+[JoseViniciusQueiroz]: https://github.com/JoseViniciusQueiroz  
+[leohssjr]: https://github.com/leohssjr  
+[marcomarquesdc]: https://github.com/marcomarquesdc  
+[MylenaTrindade]: https://github.com/MylenaTrindade  
+[yagoas]: https://github.com/yagoas
