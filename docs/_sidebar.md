@@ -17,3 +17,4 @@
       - [2.3.1 Diagrama de Casos de Uso](./Modelagem/ModelagemOrganizacional/2.3.1.DiagramaDeCasosDeUso.md)
       - [2.3.1 Diagrama de Pacotes](./Modelagem/ModelagemOrganizacional/2.3.2.DiagramaDePacotes.md.md)
     - [**2.4. Participações - Modelagem**](./Modelagem/2.4.ParticipacoesModelagem.md)
+    - [**2.5. Iniciativas Extras**](./Modelagem/2.5.Extras)
